@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Currently under construction, will update (by end of month) with projects and assignments that include languages such as Javascript, Python, PowerShell, and Bash 
+### Currently under construction, will update with projects and assignments that include languages such as Javascript, Python, PowerShell, and Bash 
 <!--
 **MichaelHildreth/MichaelHildreth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
